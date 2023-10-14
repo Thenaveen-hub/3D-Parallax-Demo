@@ -30,7 +30,8 @@ This is a basic Example of showcasing the Power of parallax effect in website de
 <div align="left">
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="52" height="40" alt="youtube logo"  />
 </div>
-👤  [@codehal](https://www.youtube.com/@codehal)
+
+👤  ![@codehal](https://www.youtube.com/@codehal)
 
 ## Reference
  Want to learn this parallax effect ! you can visit here </br>
